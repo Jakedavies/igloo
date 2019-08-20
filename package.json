@@ -1,5 +1,5 @@
 {
-  "name": "@jamesjnadeau/igloo",
+  "name": "@jakedavies/igloo",
   "version": "0.0.11",
   "description": "Igloo is a lightweight, fast, and minimal framework for rapid development",
   "main": "./lib",
